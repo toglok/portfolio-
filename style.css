@@ -1,0 +1,22 @@
+/* jumbotron */
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #d0e2e0;
+}
+
+.navbar-brand.pixel-text {
+  font-family: "Playpen Sans", cursive;
+  font-size: 5rem;
+}
+.nav-link {
+  font-family: "Playpen Sans", cursive;
+}
+
+#project {
+  background-color: #d0e2e0;
+}
+
+section {
+  font-family: "Playpen Sans", cursive;
+  padding-top: 7rem;
+}
